@@ -1,0 +1,12 @@
+{
+  "name": "weather-app",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm run start\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

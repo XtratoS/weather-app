@@ -1,0 +1,9 @@
+body {
+  background-color: #33691E;
+  color: white;
+}
+
+.search-city-item {
+  display: block;
+  margin: auto;
+}
