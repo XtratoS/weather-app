@@ -1,3 +1,8 @@
+# Weather App
+## What is it?
+This is an app that gets the current weather information for a specific city.
+## How to use it?
+-- TODO --
 # API Replies
 ## Current Weather
 <pre>{
